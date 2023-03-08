@@ -1,0 +1,23 @@
+{
+  "name": "tlwwork-contact-use",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel introduction.Aboutus.html",
+    "build": "parcel build introduction.Aboutus.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TLWwork/TLWwork-contact-use.git"
+  },
+  "author": "Daniel Luntras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TLWwork/TLWwork-contact-use/issues"
+  },
+  "homepage": "https://github.com/TLWwork/TLWwork-contact-use#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
