@@ -247,6 +247,24 @@ height: 400px;
   font-weight:900;
 }
 
+.web-contactus{
+/* position: absolute; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -258,7 +276,7 @@ footer {
   left: 0%;
   width: 60%;
   margin: 0;
-
+display: none;
 
 }
 
@@ -324,4 +342,36 @@ footer {
 .imger{
       height: 50px;
   width: 50px;
+}
+
+.divviber{
+    position: absolute;
+left:60%;
+}
+.divemail{
+  position: absolute;
+left:60%;
+top:53%;
+}
+.divyoutube{
+  position: absolute;
+left:60%;
+top:63%;
+}
+.divfacebook{
+    position: absolute;
+left:60%;
+top:77%;
+}
+#opacity1{
+opacity: 0;
+}
+#opacity2{
+opacity: 0;
+}
+#opacity3{
+opacity: 0;
+}
+#opacity4{
+display: none;
 }
