@@ -204,6 +204,7 @@ body {
 footer {
   width: 60%;
   margin: 0;
+  display: none;
   position: absolute;
   top: 67%;
   left: 0%;
@@ -263,6 +264,37 @@ footer {
 .imger {
   height: 50px;
   width: 50px;
+}
+
+.divviber {
+  position: absolute;
+  left: 60%;
+}
+
+.divemail {
+  position: absolute;
+  top: 53%;
+  left: 60%;
+}
+
+.divyoutube {
+  position: absolute;
+  top: 63%;
+  left: 60%;
+}
+
+.divfacebook {
+  position: absolute;
+  top: 77%;
+  left: 60%;
+}
+
+#opacity1, #opacity2, #opacity3 {
+  opacity: 0;
+}
+
+#opacity4 {
+  display: none;
 }
 
 /*# sourceMappingURL=index.b58d137b.css.map */
