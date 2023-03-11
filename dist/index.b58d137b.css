@@ -183,4 +183,86 @@ body {
   position: absolute;
 }
 
+.imges {
+  width: 100%;
+  height: 400px;
+}
+
+.name-webr {
+  position: absolute;
+  top: 30%;
+  left: 20%;
+}
+
+.name-webs {
+  font-weight: 900;
+  position: absolute;
+  top: 35%;
+  left: 20%;
+}
+
+footer {
+  width: 60%;
+  margin: 0;
+  position: absolute;
+  top: 67%;
+  left: 0%;
+}
+
+.Footer-part1 {
+  color: #fffcfc;
+  background-color: #709ce8;
+  padding: 30px 40px 40px 310px;
+  position: absolute;
+}
+
+.v {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.p {
+  padding-left: 0;
+}
+
+.name-web {
+  margin: 20px 20px 20px 0;
+  font-size: 45px;
+}
+
+.foooter-last {
+  color: #fff;
+  height: 320px;
+  width: 116.5%;
+  background-color: #00215b;
+  margin: 0;
+  padding: 20px;
+  position: absolute;
+  left: 50%;
+}
+
+.link {
+  padding: 40px;
+  position: absolute;
+  left: 55%;
+}
+
+.support {
+  padding: 40px;
+  position: absolute;
+  left: 35%;
+}
+
+.blog {
+  width: 30%;
+  padding-top: 40px;
+  position: absolute;
+  left: 50px;
+}
+
+.imger {
+  height: 50px;
+  width: 50px;
+}
+
 /*# sourceMappingURL=index.b58d137b.css.map */
