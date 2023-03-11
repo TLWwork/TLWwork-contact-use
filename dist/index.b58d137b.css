@@ -289,11 +289,7 @@ footer {
   left: 60%;
 }
 
-#opacity1, #opacity2, #opacity3 {
-  opacity: 0;
-}
-
-#opacity4 {
+#opacity1, #opacity3, #opacity4 {
   display: none;
 }
 
