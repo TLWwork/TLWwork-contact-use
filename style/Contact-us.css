@@ -364,13 +364,11 @@ left:60%;
 top:77%;
 }
 #opacity1{
-opacity: 0;
+display: none;
 }
-#opacity2{
-opacity: 0;
-}
+
 #opacity3{
-opacity: 0;
+display: none;
 }
 #opacity4{
 display: none;
