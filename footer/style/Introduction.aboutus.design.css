@@ -1,0 +1,74 @@
+/* footer  */
+footer {
+  position: absolute;
+  top: 10%;
+  left: 0%;
+  width: 60%;
+  margin: 0;
+
+
+}
+
+.Footer-part1 {
+  position: absolute;
+  background-color: #709ce8;
+  color: #fffcfc;
+  padding: 40px;
+  padding-top: 30px;
+  padding-left: 310px;
+}
+
+
+.v {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.p {
+  padding-left: 0px;
+}
+
+.name-web {
+  margin: 20px;
+  margin-left: 0;
+  font-size: 45px;
+}
+
+.foooter-last {
+  position: absolute;
+  background-color: #00215B;
+  color: #ffffff;
+  left: 50%;
+  height: 320px;
+  padding: 20px;
+  width: 116.5%;
+  margin: 0px;
+}
+
+.link {
+  position: absolute;
+  left: 55%;
+  padding: 40px;
+
+}
+
+.support {
+  padding: 50px;
+  position: absolute;
+  left: 35%;
+  padding: 40px;
+
+
+}
+
+.blog {
+  position: absolute;
+  left: 50px;
+  padding-top: 40px;
+  width: 30%;
+
+}
+.imger{
+      height: 50px;
+  width: 50px;
+}
