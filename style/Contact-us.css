@@ -374,3 +374,28 @@ display: none;
 #opacity4{
 display: none;
 } */
+.buutonred{
+background-color: red;
+color:black;
+font-family: 'Times New Roman', Times, serif;
+border:none;
+margin:10px;
+padding:5px;
+  text-decoration: none;
+border-radius: 3px;
+transition: all 1s;
+
+
+}
+.ared{
+  color:#ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size:15px
+}
+.buutonred:hover{
+background-color: #000000;
+border: solid 1px rgb(255, 0, 0);
+color:red;
+}
