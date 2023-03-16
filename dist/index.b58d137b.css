@@ -314,4 +314,19 @@ footer {
   border: 1px solid red;
 }
 
+.contact-boss {
+  border: 1px solid #000;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 40px;
+  position: absolute;
+  top: 55%;
+  left: 20%;
+  box-shadow: 10px 15px 5px 5px #767676;
+}
+
+.heder {
+  font-size: 30px;
+}
+
 /*# sourceMappingURL=index.b58d137b.css.map */
