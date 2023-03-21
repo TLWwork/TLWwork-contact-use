@@ -117,7 +117,7 @@ img {
 }
 
 body {
-  background: #fffcfc;
+  background-image: linear-gradient(#fff, #fff);
   font-family: Montserrat, sans-serif;
 }
 
@@ -266,26 +266,106 @@ footer {
 }
 
 .divviber {
+  height: 130px;
+  width: 250px;
+  color: #fff;
+  background-color: #736477;
+  border-radius: 5px;
+  padding: 20px;
+  transition: all 1s;
   position: absolute;
-  left: 60%;
+  left: 50%;
+}
+
+.divviber:hover {
+  height: 130px;
+  width: 250px;
+  color: #fff;
+  background-color: #743e85;
+  border-radius: 5px;
+  padding: 20px;
+  transition: all 1s;
+  position: absolute;
+  left: 50%;
+  box-shadow: 10px 10px 3px 3px #491848;
 }
 
 .divemail {
+  height: 130px;
+  width: 270px;
+  color: #fff;
+  background-color: #7b956f;
+  border-radius: 5px;
+  padding: 20px;
+  transition: all 1s;
   position: absolute;
   top: 57%;
   left: 60%;
 }
 
-.divyoutube {
+.divemail:hover {
+  height: 130px;
+  width: 270px;
+  color: #fff;
+  background-color: #568a3e;
+  border-radius: 5px;
+  padding: 20px;
   position: absolute;
-  top: 70%;
+  top: 57%;
   left: 60%;
+  box-shadow: 10px 10px 3px 3px #145914;
+}
+
+.divyoutube {
+  height: 160px;
+  width: 270px;
+  color: #fff;
+  background-color: #845959;
+  border-radius: 5px;
+  padding: 20px;
+  transition: all 1s;
+  position: absolute;
+  top: 72%;
+  left: 50%;
+}
+
+.divyoutube:hover {
+  height: 160px;
+  width: 270px;
+  color: #fff;
+  background-color: #a23b3b;
+  border-radius: 5px;
+  padding: 20px;
+  position: absolute;
+  top: 72%;
+  left: 50%;
+  box-shadow: 10px 10px 3px 3px #6b0b0b94;
 }
 
 .divfacebook {
+  height: 140px;
+  width: 230px;
+  color: #fff;
+  background-color: #4e6588;
+  border-radius: 5px;
+  padding: 20px;
+  transition: all 1s;
   position: absolute;
-  top: 85%;
-  left: 60%;
+  top: 81%;
+  left: 65%;
+}
+
+.divfacebook:hover {
+  height: 140px;
+  width: 230px;
+  color: #fff;
+  background-color: #779eda;
+  border-radius: 5px;
+  padding: 20px;
+  position: absolute;
+  top: 81%;
+  left: 65%;
+  box-shadow: 10px 10px 3px 3px #343a64;
 }
 
 .buutonred {
@@ -327,6 +407,10 @@ footer {
 
 .heder {
   font-size: 30px;
+}
+
+.p {
+  opacity: 0;
 }
 
 /*# sourceMappingURL=index.b58d137b.css.map */
